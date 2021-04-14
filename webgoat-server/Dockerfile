@@ -1,4 +1,4 @@
-FROM openjdk:11.0.3-jre-slim-stretch
+FROM openjdk:16-ea-32-oracle
 
 ARG webgoat_version=v8.0.0-SNAPSHOT
 
